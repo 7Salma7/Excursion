@@ -1,0 +1,6 @@
+<script>start("/Applications/Excursion/resources/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("css","css",1,96,"96 B",1785565639,"01/08/2026, 16:27:19");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1785565640,"01/08/2026, 16:27:20");</script>
+<script>addRow("images","images",0,166,"166 B",1785564426,"01/08/2026, 16:07:06");</script>
+<script>addRow("videos","videos",0,85,"85 B",1785564468,"01/08/2026, 16:07:48");</script>
