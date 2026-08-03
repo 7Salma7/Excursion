@@ -1,6 +1,30 @@
-html, body {
+ body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    background-color: #070000;
+    text-align: center
+    ;
+}
+
+.header--main {
+    color: #fff;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.header--secondary {
+    color: #fff;
+    font-weight: 300;
+    font-size: 42px;
+}
+.header--sub-header {
+    color: grey;
+    font-weight: 300;
+    font-size: 21px;
+}
+
+.link--cta {
+    font-size: 16-x;
+    color: aquamarine;
 }
